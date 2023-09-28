@@ -25,11 +25,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "Abstract
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Slot6_demo", "Slot6_demo\Slot6_demo.csproj", "{E6D691EE-8011-4FAD-9633-902814C117BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateGenerics", "DelegateGenerics\DelegateGenerics.csproj", "{780CD446-743D-44A0-9402-E96AF9CDB483}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegateGenerics", "DelegateGenerics\DelegateGenerics.csproj", "{780CD446-743D-44A0-9402-E96AF9CDB483}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankingApp", "BankingApp\BankingApp.csproj", "{9B545D2A-316D-4A9D-84AB-994AB0D268A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankingApp", "BankingApp\BankingApp.csproj", "{9B545D2A-316D-4A9D-84AB-994AB0D268A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Product", "Product\Product.csproj", "{A88AC7E3-B1F6-4EAD-A222-FD6D944D38E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Product", "Product\Product.csproj", "{A88AC7E3-B1F6-4EAD-A222-FD6D944D38E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab4", "Lab4\Lab4.csproj", "{A7A54FF0-4C2E-4C9E-8F72-5D033016E344}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{A88AC7E3-B1F6-4EAD-A222-FD6D944D38E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A88AC7E3-B1F6-4EAD-A222-FD6D944D38E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A88AC7E3-B1F6-4EAD-A222-FD6D944D38E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7A54FF0-4C2E-4C9E-8F72-5D033016E344}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7A54FF0-4C2E-4C9E-8F72-5D033016E344}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7A54FF0-4C2E-4C9E-8F72-5D033016E344}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7A54FF0-4C2E-4C9E-8F72-5D033016E344}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
